@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/anuj/Computer%20Science/code/Kidney_disease_project/mlruns/0/4ee60b4a69eb49779768fe48b4db7d62/artifacts
+end_time: 1697030383154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ee60b4a69eb49779768fe48b4db7d62
+run_name: adaptable-fish-548
+run_uuid: 4ee60b4a69eb49779768fe48b4db7d62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697030374437
+status: 3
+tags: []
+user_id: Anuj Shrivatri
